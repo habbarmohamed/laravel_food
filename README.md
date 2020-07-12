@@ -31,11 +31,13 @@ PHP >= 7.0.0
 ## Screenshot of public pages
 #### HomePage
 ![screencapture-localhost-8000-2020-07-10-16_30_39](https://user-images.githubusercontent.com/49524713/87246610-620d1200-c446-11ea-854f-ebaa005f8e97.png)
-
-![screencapture-localhost-8000-cart-2020-06-25-01_02_42](https://user-images.githubusercontent.com/49524713/87246708-eeb7d000-c446-11ea-81a0-a56bec37a8cc.png)
 #### Products by Category
 ![screencapture-localhost-8000-products-cat-id-2-2020-07-12-13_41_51](https://user-images.githubusercontent.com/49524713/87246716-fe371900-c446-11ea-9042-eea8b8ca05f0.png)
 #### Contact Page
 ![screencapture-localhost-8000-contact-2020-06-28-14_14_01](https://user-images.githubusercontent.com/49524713/87246731-13ac4300-c447-11ea-842c-ee5dfcd19b79.png)
+#### Search
 ![screencapture-localhost-8000-search-2020-07-12-13_45_09](https://user-images.githubusercontent.com/49524713/87246767-48b89580-c447-11ea-976b-24132cfa1cc4.png)
+#### Add To Cart
+![screencapture-localhost-8000-cart-2020-06-25-01_02_42](https://user-images.githubusercontent.com/49524713/87246708-eeb7d000-c446-11ea-81a0-a56bec37a8cc.png)
+#### Checkout
 ![screencapture-localhost-8000-checkout-2020-06-25-01_01_46](https://user-images.githubusercontent.com/49524713/87246796-6d147200-c447-11ea-897b-48364d286585.png)
