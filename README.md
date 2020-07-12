@@ -30,5 +30,5 @@ PHP >= 7.0.0
 
 ## Screenshot of public pages
 
-![screencapture-localhost-8000-cart-2020-06-25-01_02_42](https://user-images.githubusercontent.com/49524713/87246708-eeb7d000-c446-11ea-81a0-a56bec37a8cc.png | width=100)
+![](https://user-images.githubusercontent.com/49524713/87246708-eeb7d000-c446-11ea-81a0-a56bec37a8cc.png | width=100)
 
