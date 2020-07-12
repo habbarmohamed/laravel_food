@@ -145,7 +145,7 @@
         <ul class="navbar-nav mx-auto pl-3">
            @include('partials.search')
         </ul>
-        <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+        <ul class="navbar-nav ml-auto mt-2 mt-lg-0" style="z-index: 2;">
           @include('partials.auth')
           {{-- <li class="nav-item dropdown pr-3">
             <a class="nav-link dropdown-toggle toggle-icon" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
